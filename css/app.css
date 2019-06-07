@@ -1,0 +1,9 @@
+.navbar-nav {
+  font-family: 'PT Serif', serif;
+  font-size: 1.125rem;
+}
+
+.figure-caption {
+	padding-top: .5rem !important;
+	padding-bottom: .5rem !important;
+}
